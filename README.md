@@ -21,6 +21,9 @@ telah berhasil terinstall di perangkat Anda!
 ![Screenshot](assets-report/03.png)
 
 ### Praktikum 2
-1. 
+1. Pada Langkah ke-2, setelah membuat proyek baru menggunakan Next.js, terdapat beberapa istilah yang muncul. Jelaskan istilah tersebut, TypeScript, ESLint, Tailwind CSS, App Router, Import alias, App router, dan Turbopack
+Cek
+
+2. 
 ![Screenshot](assets-report/04.png)
 ![Screenshot](assets-report/05.png)
