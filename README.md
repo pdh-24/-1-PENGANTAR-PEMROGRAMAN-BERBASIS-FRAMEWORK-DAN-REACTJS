@@ -18,3 +18,8 @@ Git berfungsi untuk mengelola versi suntingan kode program, VS Code merupakan ed
 telah berhasil terinstall di perangkat Anda!
 
 ![Screenshot](assets-report/02.png)
+![Screenshot](assets-report/03.png)
+
+### Praktikum 2
+![Screenshot](assets-report/04.png)
+![Screenshot](assets-report/05.png)
